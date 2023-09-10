@@ -1,0 +1,12 @@
+python: "3.9"
+build_dependencies:
+  - pip
+dependencies:
+      - click
+      - mlflow>=2.1
+      - kaggle
+      - polars
+      - catboost
+      - optuna
+      - pandas
+      - scikit-learn
